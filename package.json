@@ -1,0 +1,11 @@
+{
+  "name": "redux-toolkit-tutorial",
+  "version": "1.0.0",
+  "description": "I have added two folders called vite-starter and vite-final. If you prefer to work with Vite instead of CRA, simply use the Vite folders. The Redux Toolkit functionality is the same in both setups.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
